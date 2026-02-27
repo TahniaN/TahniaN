@@ -1,6 +1,6 @@
 ## TN here! 
 
-Coming out of my cave one step at a time and taking any unfortunate spectator with me. 
+Coming out of my cave one step at a time  . . . . .
 
 <!--
 **TahniaN/TahniaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
