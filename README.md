@@ -3,7 +3,7 @@
 
 ## About Me
 
-I build **intelligent systems that turn messy real-world data into decisions utilizing Machine Learning and Signal Processing pipelines and RAG-based Agentic AI Systems**
+I build **intelligent systems that turn messy real-world data into decisions utilizing Machine Learning and Signal Processing pipelines and Multimodal RAG-based AI Systems**
 
 ***Current obsession:*** building **AI assistants that understand human behavior through a combination of biosignal, digital footprint, and behavioural data**.
 
